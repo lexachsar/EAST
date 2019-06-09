@@ -1,3 +1,5 @@
+# THIS IS A FORK OF [Canjie-Luo/MORANv2](https://github.com/Canjie-Luo/MORAN_v2)
+
 # EAST: An Efficient and Accurate Scene Text Detector
 
 ### Introduction
